@@ -30,4 +30,18 @@ Ademas, mis bebidas favoritas son:
 - Chocolate con cafe
 - agua 
 
+Ricardo_Balam
 
+Me llamo Ricardo y mis comidas favoritas son las siguientes
+
+- Espagueti
+- Pizza
+- Tamales
+- Cochinita
+- Pastel de carne
+
+Ademas, mis bebidas favoritas son: 
+
+- Jugo de Manzana
+- Coca Cola
+- Cafe
